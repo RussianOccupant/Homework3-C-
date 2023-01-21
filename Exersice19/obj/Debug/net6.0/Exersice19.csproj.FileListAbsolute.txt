@@ -1,0 +1,15 @@
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\bin\Debug\net6.0\Exersice19.exe
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\bin\Debug\net6.0\Exersice19.deps.json
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\bin\Debug\net6.0\Exersice19.runtimeconfig.json
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\bin\Debug\net6.0\Exersice19.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\bin\Debug\net6.0\Exersice19.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.csproj.AssemblyReference.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.AssemblyInfoInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.AssemblyInfo.cs
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.csproj.CoreCompileInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\refint\Exersice19.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\Exersice19.genruntimeconfig.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice19\obj\Debug\net6.0\ref\Exersice19.dll
