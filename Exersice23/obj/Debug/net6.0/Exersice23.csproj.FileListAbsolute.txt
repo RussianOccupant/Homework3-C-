@@ -1,0 +1,15 @@
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\bin\Debug\net6.0\Exersice23.exe
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\bin\Debug\net6.0\Exersice23.deps.json
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\bin\Debug\net6.0\Exersice23.runtimeconfig.json
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\bin\Debug\net6.0\Exersice23.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\bin\Debug\net6.0\Exersice23.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.csproj.AssemblyReference.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.AssemblyInfoInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.AssemblyInfo.cs
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.csproj.CoreCompileInputs.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\refint\Exersice23.dll
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.pdb
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\Exersice23.genruntimeconfig.cache
+C:\Users\sshby\OneDrive\Рабочий стол\GeekBrains\Homework3\Exersice23\obj\Debug\net6.0\ref\Exersice23.dll
